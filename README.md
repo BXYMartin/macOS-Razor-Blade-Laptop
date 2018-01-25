@@ -17,3 +17,11 @@ Original internal network card by Atheros is not supported, switched to Broadcom
 Thunderbolt works as USB 3.1 for now  
 HDMI Output is not supported  
 NVMe SSD is supported on High Sierra
+
+## Special Thanks
+Special Thanks to Hackintosh Community for making this possible!  
+[VoodooI2C](https://github.com/alexandred/VoodooI2C)
+[VoodooI2CSynaptics](https://github.com/alexandred/VoodooI2CSynaptics)
+[Discussion Post Link](https://www.tonymacx86.com/threads/razer-blade-2016-os-x-10-11-5.195497/)
+[Official Guide Link](https://www.tonymacx86.com/threads/guide-razer-blade-late-2016-fhd.225043/)  
+`uar` `RehabMan`
