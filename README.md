@@ -3,7 +3,7 @@
 ## Hardware Specifications
 | Device | Model | Compatibility |
 | :-: | :-: | :-: |
-| CPU | i7-6700HQ (Skylake) | ```diff Yes ``` |
+| CPU | i7-6700HQ (Skylake) | ```diff + Yes ``` |
 | GPU0 | HD 530 (1536MB) | <font color=green>Yes</font> |
 | GPU1 | GTX 1060 | <font color=red>No</font> |
 | Sound Card | Realtek | <font color=green>Yes</font> |
