@@ -11,6 +11,15 @@
 | Display | UHD 3K TouchScreen | `Yes` |
 | Touchpad | Synaptics Precision Touchpad | `Yes` |
 
+## My Modifications
+* Generate my own themes
+* Add patches for boot glitch fix
+* Add DSDT patches for I2C devices
+* Sound Insertion
+* AppleBackLight Injection
+* Samsung SSD TRIM Enabled
+* HandOff, BLE and more
+
 ## Notes
 The Synaptics Touchpad is working in progress to support Multitouch Functions  
 Original internal network card by Atheros is not supported, switched to Broadcomm BCM94352Z  
@@ -20,8 +29,13 @@ NVMe SSD is supported on High Sierra
 
 ## Special Thanks
 Special Thanks to Hackintosh Community for making this possible!  
-[VoodooI2C](https://github.com/alexandred/VoodooI2C)
-[VoodooI2CSynaptics](https://github.com/alexandred/VoodooI2CSynaptics)
-[Discussion Post Link](https://www.tonymacx86.com/threads/razer-blade-2016-os-x-10-11-5.195497/)
+
+[VoodooI2C](https://github.com/alexandred/VoodooI2C)  
+
+[VoodooI2CSynaptics](https://github.com/alexandred/VoodooI2CSynaptics)  
+
+[Discussion Post Link](https://www.tonymacx86.com/threads/razer-blade-2016-os-x-10-11-5.195497/)  
+
 [Official Guide Link](https://www.tonymacx86.com/threads/guide-razer-blade-late-2016-fhd.225043/)  
+
 `uar` `RehabMan`
