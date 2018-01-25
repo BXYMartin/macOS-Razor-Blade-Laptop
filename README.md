@@ -38,4 +38,4 @@ Special Thanks to Hackintosh Community for making this possible!
 
 [Official Guide Link](https://www.tonymacx86.com/threads/guide-razer-blade-late-2016-fhd.225043/)  
 
-`uar` `RehabMan`
+`uar` `RehabMan` `alexandred`
