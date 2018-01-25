@@ -1,7 +1,8 @@
 # Razor Blade 2016
+![TonyMacX86](https://www.tonymacx86.com/proxy.php?image=https%3A%2F%2Fassets.razerzone.com%2Feeimages%2Fproducts%2F26727%2Frzrblade14-15.png&hash=2cf9cd7c4515a195a517cd0a31cc3f8e)
 ## Hardware Specifications
 | Device | Model | Compatibility |
-| - | :-: | -: |
+| :-: | :-: | :-: |
 | CPU | i7-6700HQ (Skylake) | <font color=green>Yes</font> |
 | GPU0 | HD 530 (1536MB) | <font color=green>Yes</font> |
 | GPU1 | GTX 1060 | <font color=red>No</font> |
